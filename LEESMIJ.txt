@@ -1,0 +1,5 @@
+Bijbelleestijd — installeerbare webapp (PWA)
+
+Upload alle bestanden uit deze map samen naar een website met HTTPS. Open index.html via die website. Gebruik in Chrome op Android het menu > App installeren (of Toevoegen aan startscherm). Na het eerste online bezoek werkt de app ook offline.
+
+LET OP: Deze bestanden veranderen de bestaande chatgpt.site-pagina niet automatisch. De server moet de bestanden afzonderlijk kunnen aanbieden, waaronder manifest.webmanifest en service-worker.js. Bij openen als lokaal bestand werkt de berekenaar wel, maar de installatie als PWA niet.
